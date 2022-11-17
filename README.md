@@ -1,4 +1,4 @@
-# next-tailwind-vivid-starter
+# next-js-tailwind-vivid-starter
 A starter repository with React, NextJS, Tailwind, and Vivid set up - all using JavaScript.
 
 # Getting Started
