@@ -7,7 +7,7 @@ To get started, clone the repository, install the necessary dependencies, and ru
 
 ```bash
 git clone https://github.com/vivid-labs/next-js-tailwind-vivid-starter.git
-cd next-tailwind-vivid-starter
+cd next-js-tailwind-vivid-starter
 #If you don't already have yarn
 npm install --global yarn
 yarn install
